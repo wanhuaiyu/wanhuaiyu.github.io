@@ -1,0 +1,20 @@
+#main-container {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#main-container .mdui-row {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.mdui-card-primary {
+    padding-bottom: 5px;
+}
+
+.publication-item {
+    border-left-color: #FFAB00;
+    border-left-style: solid;
+    border-left-width: 6px;
+    padding-left: 10px;
+}
